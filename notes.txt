@@ -1,0 +1,28 @@
+keyboard sortcut.
+ctrl+ s => save.
+ctrl + c => copy.
+ctrl + v => paste.
+ctrl + a => to select the entire file.
+ctrl + d => to select next duplicated text.
+alt and click => make you enable multi cursor .
+ctrl + z => undo
+ctrl + Y => redo
+shift + click => select the content between to cursor..
+
+what is HTML?
+Hypertext markup language(Not a programming language).
+used to make skeleton of the webpage
+
+
+* tag are two types:- 
+-> openingtag<name>, closingtag</name>
+here name is tagname.
+
+
+* almost all the html elements have both opening and closing tag bus
+very few element like (meta element) have only opening tag bcuz it have 
+self closing tag
+
+* tagnames:-
+html, head, meta, title, body, button....
+143  tagname are there.
